@@ -13,7 +13,7 @@ env:
   EXTRA_CMDS : "LD=ld.lld LLVM=1 LLVM_IAS=1"
 
   KERNEL_SOURCE : "https://github.com/oppo-source/android_kernel_oppo_mt6877.git"
-  KERNEL_BRANCH : "mt6877_t_13.1.0_reno7_se_5g"
+  KERNEL_BRANCH : "oppo/mt6877_t_13.1.0_reno7_se_5g"
 
   CLANG_SOURCE : "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.7/LLVM-19.1.7-Linux-X64.tar.xz"
   CLANG_BRANCH : ""
